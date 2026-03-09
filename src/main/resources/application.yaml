@@ -9,6 +9,5 @@ spring:
       server:
         git:
           uri: https://github.com/chaunguyentruongan/microservice-config-repo
-         
           search-paths:
           - '{application}'
